@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{4F00EF45-348E-E167-C47A-88A53E44F14E}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_2;UNITY_4_5;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>E:/Unity3D/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>E:/Unity3D/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Classes\Building.cs" />
+     <Compile Include="Assets\Scripts\Classes\BuildingManager.cs" />
+     <Compile Include="Assets\Scripts\Classes\Lecture.cs" />
+     <Compile Include="Assets\Scripts\Classes\LectureManager.cs" />
+     <Compile Include="Assets\Scripts\Classes\Staff.cs" />
+     <Compile Include="Assets\Scripts\Classes\StaffManager.cs" />
+     <Compile Include="Assets\Scripts\CursorController.cs" />
+     <Compile Include="Assets\Scripts\GPSCameraVector.cs" />
+     <Compile Include="Assets\Scripts\GPSMain.cs" />
+     <Compile Include="Assets\Scripts\GUIControllerScript.cs" />
+     <Compile Include="Assets\Scripts\Geolocation.cs" />
+     <Compile Include="Assets\Scripts\ResourceController.cs" />
+     <Compile Include="Assets\Scripts\SceneManager.cs" />
+     <Compile Include="Assets\Scripts\VideoFeedTextureScript.cs" />
+     <None Include="Assets\Resources\Staff\staff_template.txt" />
+     <None Include="Assets\Resources\Staff\245\1.051.txt" />
+     <None Include="Assets\Resources\Staff\245\2.038.txt" />
+     <None Include="Assets\Resources\Staff\350\4.033b.txt" />
+     <None Include="Assets\Resources\Staff\245\3.059b.txt" />
+     <None Include="Assets\Resources\Staff\350\3.012.txt" />
+     <None Include="Assets\Resources\Staff\460\4.014b.txt" />
+     <None Include="Assets\Resources\Staff\460\3.057.txt" />
+     <None Include="Assets\Resources\Staff\245\2.037.txt" />
+     <None Include="Assets\Resources\Staff\245\1.020.txt" />
+     <None Include="Assets\Resources\Staff\460\2.025.txt" />
+     <None Include="Assets\Resources\Staff\460\3.060.txt" />
+     <None Include="Assets\Resources\Staff\460\4.015a(No Email).txt" />
+     <None Include="Assets\Resources\Staff\245\3.026.txt" />
+     <None Include="Assets\Resources\Lectures\lecture_info.txt" />
+     <None Include="Assets\Resources\Staff\460\3.048.txt" />
+     <None Include="Assets\Resources\Staff\460\2.027.txt" />
+     <None Include="Assets\Resources\Staff\245\3.007.txt" />
+     <None Include="Assets\Resources\Staff\245\1.008.txt" />
+     <None Include="Assets\Resources\Staff\460\3.010a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.027.txt" />
+     <None Include="Assets\Resources\Staff\460\4.046a.txt" />
+     <None Include="Assets\Resources\Staff\460\3.014a.txt" />
+     <None Include="Assets\Resources\Staff\245\2.047.txt" />
+     <None Include="Assets\Plugins\Android\build.xml" />
+     <None Include="Assets\Resources\Staff\460\4.011c.txt" />
+     <None Include="Assets\Resources\Staff\460\4.023.txt" />
+     <None Include="Assets\Resources\Staff\245\2.049.txt" />
+     <None Include="Assets\Resources\Staff\245\1.017.txt" />
+     <None Include="Assets\Resources\Staff\460\4.018a(No Email).txt" />
+     <None Include="Assets\Resources\Staff\460\3.047.txt" />
+     <None Include="Assets\Resources\Staff\245\3.004.txt" />
+     <None Include="Assets\Resources\Staff\245\3.057a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.028.txt" />
+     <None Include="Assets\Resources\Staff\460\4.050.txt" />
+     <None Include="Assets\Resources\Staff\460\1.013.txt" />
+     <None Include="Assets\Resources\Staff\460\2.015.txt" />
+     <None Include="Assets\Resources\Staff\245\3.042b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.024a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.007.txt" />
+     <None Include="Assets\Resources\Staff\460\4.059.txt" />
+     <None Include="Assets\Resources\Staff\245\3.057b.txt" />
+     <None Include="Assets\Resources\Staff\245\2.026c.txt" />
+     <None Include="Assets\Resources\Staff\460\2.066.txt" />
+     <None Include="Assets\Resources\Staff\245\2.018.txt" />
+     <None Include="Assets\Resources\Staff\245\3.025.txt" />
+     <None Include="Assets\Resources\Staff\460\3.011c.txt" />
+     <None Include="Assets\Resources\Staff\245\3.019b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.012.txt" />
+     <None Include="Assets\Resources\Staff\460\4.024b.txt" />
+     <None Include="Assets\Resources\Staff\460\2.063.txt" />
+     <None Include="Assets\Resources\Staff\245\2.015.txt" />
+     <None Include="Assets\Resources\Staff\460\4.017a.txt" />
+     <None Include="Assets\Resources\Staff\350\1.012.txt" />
+     <None Include="Assets\Resources\Staff\460\3.054.txt" />
+     <None Include="Assets\Resources\Staff\245\3.023a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.026.txt" />
+     <None Include="Assets\Resources\Staff\460\4.010a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.046b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.010b.txt" />
+     <None Include="Assets\Resources\Staff\245\1.022.txt" />
+     <None Include="Assets\Resources\Staff\350\4.002B.txt" />
+     <None Include="Assets\Resources\Staff\245\3.018.txt" />
+     <None Include="Assets\Resources\Staff\460\2.018.txt" />
+     <None Include="Assets\Resources\Staff\460\4.048b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.010A.txt" />
+     <None Include="Assets\Resources\Staff\460\3.026b.txt" />
+     <None Include="Assets\Resources\Staff\245\3.037.txt" />
+     <None Include="Assets\Resources\Staff\245\3.041B.txt" />
+     <None Include="Assets\Resources\Staff\460\2.016.txt" />
+     <None Include="Assets\Resources\Staff\460\4.049.txt" />
+     <None Include="Assets\Resources\Staff\460\2.023.txt" />
+     <None Include="Assets\Resources\Staff\245\3.041Ab.txt" />
+     <None Include="Assets\Resources\Staff\245\1.010.txt" />
+     <None Include="Assets\Resources\Staff\460\3.015.txt" />
+     <None Include="Assets\Resources\Staff\460\3.014b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.021.txt" />
+     <None Include="Assets\Resources\Staff\245\1.021.txt" />
+     <None Include="Assets\Resources\Staff\245\3.051.txt" />
+     <None Include="Assets\Resources\Staff\460\2.054.txt" />
+     <None Include="Assets\Resources\Staff\350\3.014.txt" />
+     <None Include="Assets\Resources\Staff\460\3.019.txt" />
+     <None Include="Assets\Resources\Staff\350\4.015.txt" />
+     <None Include="Assets\Resources\Staff\350\4.035.txt" />
+     <None Include="Assets\Resources\Buildings\building_template.txt" />
+     <None Include="Assets\Resources\Staff\350\4.028.txt" />
+     <None Include="Assets\Resources\Staff\460\4.006.txt" />
+     <None Include="Assets\Resources\Staff\460\4.054b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.022.txt" />
+     <None Include="Assets\Resources\Staff\245\3.027.txt" />
+     <None Include="Assets\Resources\Staff\460\2.060.txt" />
+     <None Include="Assets\Resources\Staff\245\1.026.txt" />
+     <None Include="Assets\Resources\Staff\460\3.011b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.042.txt" />
+     <None Include="Assets\Resources\Buildings\245\building_info.txt" />
+     <None Include="Assets\Resources\Staff\460\4.011b.txt" />
+     <None Include="Assets\Resources\Staff\245\1.009.txt" />
+     <None Include="Assets\Resources\Staff\245\3.016.txt" />
+     <None Include="Assets\Resources\Staff\460\3.051.txt" />
+     <None Include="Assets\Resources\Staff\460\1.029.txt" />
+     <None Include="Assets\Resources\Staff\460\3.041.txt" />
+     <None Include="Assets\Resources\Staff\245\1.005.txt" />
+     <None Include="Assets\Resources\Staff\460\3.018.txt" />
+     <None Include="Assets\Resources\Staff\245\1.011.txt" />
+     <None Include="Assets\Resources\Staff\245\3.064Aa.txt" />
+     <None Include="Assets\Resources\Staff\350\4.011.txt" />
+     <None Include="Assets\Resources\Staff\350\4.037.txt" />
+     <None Include="Assets\Resources\Staff\460\4.029.txt" />
+     <None Include="Assets\Resources\Staff\460\4.007.txt" />
+     <None Include="Assets\Resources\Staff\245\3.006.txt" />
+     <None Include="Assets\Resources\Staff\245\1.014.txt" />
+     <None Include="Assets\Resources\Staff\460\4.017b(no Email).txt" />
+     <None Include="Assets\Resources\Staff\245\3.010.txt" />
+     <None Include="Assets\Resources\Staff\460\4.048a.txt" />
+     <None Include="Assets\Resources\Staff\245\3.017.txt" />
+     <None Include="Assets\Resources\Staff\460\2.014.txt" />
+     <None Include="Assets\Resources\Staff\245\3.023b.txt" />
+     <None Include="Assets\Resources\Staff\245\2.024.txt" />
+     <None Include="Assets\Resources\Staff\460\4.028.txt" />
+     <None Include="Assets\Resources\Staff\460\3.021.txt" />
+     <None Include="Assets\Resources\Staff\460\1.030.txt" />
+     <None Include="Assets\Resources\Staff\245\2.010a.txt" />
+     <None Include="Assets\Resources\Staff\245\3.029.txt" />
+     <None Include="Assets\Resources\Staff\245\2.010b.txt" />
+     <None Include="Assets\Resources\Staff\460\2.021.txt" />
+     <None Include="Assets\Resources\Staff\350\4.007.txt" />
+     <None Include="Assets\Resources\Staff\245\3.058b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.015b.txt" />
+     <None Include="Assets\Resources\Staff\460\2.012.txt" />
+     <None Include="Assets\Resources\Staff\245\3.019a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.025.txt" />
+     <None Include="Assets\Resources\Staff\245\2.053.txt" />
+     <None Include="Assets\Resources\Staff\460\4.042.txt" />
+     <None Include="Assets\Resources\Staff\245\3.021.txt" />
+     <None Include="Assets\Resources\Staff\460\4.047a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.015.txt" />
+     <None Include="Assets\Resources\Staff\460\3.052.txt" />
+     <None Include="Assets\Resources\Staff\245\3.064Ab.txt" />
+     <None Include="Assets\Resources\Staff\460\3.016.txt" />
+     <None Include="Assets\Resources\Staff\350\4.035B.txt" />
+     <None Include="Assets\Resources\Staff\460\2.028.txt" />
+     <None Include="Assets\Resources\Staff\245\3.022.txt" />
+     <None Include="Assets\Resources\Staff\245\3.053.txt" />
+     <None Include="Assets\Resources\Staff\245\1.018.txt" />
+     <None Include="Assets\Resources\Staff\460\2.022.txt" />
+     <None Include="Assets\Resources\Staff\460\3.009.txt" />
+     <None Include="Assets\Resources\Staff\350\4.030B.txt" />
+     <None Include="Assets\Resources\Staff\245\3.014a.txt" />
+     <None Include="Assets\Resources\Staff\350\4.032.txt" />
+     <None Include="Assets\Resources\Staff\245\1.013.txt" />
+     <None Include="Assets\Resources\Staff\245\2.030.txt" />
+     <None Include="Assets\Resources\Staff\460\3.013.txt" />
+     <None Include="Assets\Resources\Staff\245\1.016.txt" />
+     <None Include="Assets\Resources\Staff\245\2.033.txt" />
+     <None Include="Assets\Resources\Staff\350\4.030C.txt" />
+     <None Include="Assets\Resources\Buildings\350\building_info.txt" />
+     <None Include="Assets\Resources\Staff\460\4.014a.txt" />
+     <None Include="Assets\Resources\Staff\245\2.040.txt" />
+     <None Include="Assets\Resources\Staff\460\4.054a.txt" />
+     <None Include="Assets\Resources\Staff\460\2.053.txt" />
+     <None Include="Assets\Resources\Staff\245\1.024.txt" />
+     <None Include="Assets\Resources\Staff\460\4.052.txt" />
+     <None Include="Assets\Resources\Staff\245\3.056.txt" />
+     <None Include="Assets\Resources\Staff\460\3.050.txt" />
+     <None Include="Assets\Resources\Staff\460\4.057b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.044.txt" />
+     <None Include="Assets\Resources\Staff\350\4.005.txt" />
+     <None Include="Assets\Resources\Staff\460\4.053b.txt" />
+     <None Include="Assets\Resources\Staff\460\4.016.txt" />
+     <None Include="Assets\Resources\Staff\460\4.011a.txt" />
+     <None Include="Assets\Resources\Staff\460\2.019.txt" />
+     <None Include="Assets\Resources\Staff\245\2.052.txt" />
+     <None Include="Assets\Resources\Staff\460\2.020.txt" />
+     <None Include="Assets\Resources\Staff\245\3.036.txt" />
+     <None Include="Assets\Resources\Staff\245\2.031.txt" />
+     <None Include="Assets\Resources\Staff\245\2.026a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.027.txt" />
+     <None Include="Assets\Resources\Staff\245\1.019.txt" />
+     <None Include="Assets\Resources\Staff\245\3.015b.txt" />
+     <None Include="Assets\Resources\Staff\460\3.006.txt" />
+     <None Include="Assets\Resources\Staff\460\2.017.txt" />
+     <None Include="Assets\Resources\Staff\460\2.006.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Resources\Staff\245\2.014.txt" />
+     <None Include="Assets\Resources\Staff\245\3.024.txt" />
+     <None Include="Assets\Resources\Staff\460\2.026.txt" />
+     <None Include="Assets\Resources\Staff\460\4.051.txt" />
+     <None Include="Assets\Resources\Staff\460\2.064.txt" />
+     <None Include="Assets\Resources\Staff\245\1.050.txt" />
+     <None Include="Assets\Resources\Staff\245\1.025.txt" />
+     <None Include="Assets\Resources\Staff\460\2.008.txt" />
+     <None Include="Assets\Resources\Staff\245\3.028.txt" />
+     <None Include="Assets\Resources\Staff\350\4.033a.txt" />
+     <None Include="Assets\Resources\Staff\460\1.011.txt" />
+     <None Include="Assets\Resources\Staff\245\3.015a.txt" />
+     <None Include="Assets\Resources\Staff\245\3.050.txt" />
+     <None Include="Assets\Resources\Staff\460\4.013.txt" />
+     <None Include="Assets\Resources\Staff\460\4.044b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.038.txt" />
+     <None Include="Assets\Resources\Staff\245\3.041.txt" />
+     <None Include="Assets\Resources\Staff\460\4.020.txt" />
+     <None Include="Assets\Resources\Staff\460\3.017.txt" />
+     <None Include="Assets\Resources\Staff\245\1.015.txt" />
+     <None Include="Assets\Resources\Staff\460\1.022.txt" />
+     <None Include="Assets\Resources\Staff\245\1.023.txt" />
+     <None Include="Assets\Resources\Staff\245\3.008.txt" />
+     <None Include="Assets\Resources\Staff\245\3.011.txt" />
+     <None Include="Assets\Resources\Staff\245\2.026b.txt" />
+     <None Include="Assets\Resources\Staff\460\2.056.txt" />
+     <None Include="Assets\Resources\Staff\350\3.015.txt" />
+     <None Include="Assets\Resources\Staff\350\4.008.txt" />
+     <None Include="Assets\Resources\Staff\245\3.058c.txt" />
+     <None Include="Assets\Resources\Staff\460\4.044a.txt" />
+     <None Include="Assets\Resources\Staff\245\3.058a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.057a.txt" />
+     <None Include="Assets\Resources\Staff\350\4.041.txt" />
+     <None Include="Assets\Resources\Staff\460\3.022.txt" />
+     <None Include="Assets\Resources\Staff\460\2.061.txt" />
+     <None Include="Assets\Resources\Staff\460\1.024.txt" />
+     <None Include="Assets\Resources\Staff\350\4.013.txt" />
+     <None Include="Assets\Resources\Staff\460\1.021.txt" />
+     <None Include="Assets\Resources\Staff\460\3.059.txt" />
+     <None Include="Assets\Resources\Staff\350\4.010B.txt" />
+     <None Include="Assets\Resources\Staff\460\3.058.txt" />
+     <None Include="Assets\Resources\Staff\245\3.005.txt" />
+     <None Include="Assets\Resources\Staff\460\3.011d.txt" />
+     <None Include="Assets\Resources\Staff\460\4.047b.txt" />
+     <None Include="Assets\Resources\Staff\460\2.057.txt" />
+     <None Include="Assets\Resources\Staff\460\4.053a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.045.txt" />
+     <None Include="Assets\Resources\Staff\460\3.011a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.008.txt" />
+     <None Include="Assets\Resources\Staff\460\2.007.txt" />
+     <None Include="Assets\Resources\Staff\350\4.002A.txt" />
+     <None Include="Assets\Resources\Staff\245\3.014b.txt" />
+     <None Include="Assets\Resources\Staff\350\4.014.txt" />
+     <None Include="Assets\Resources\Staff\350\4.004.txt" />
+     <None Include="Assets\Resources\Staff\460\3.026a.txt" />
+     <None Include="Assets\Resources\Staff\460\4.018b.txt" />
+     <None Include="Assets\Resources\Buildings\460\building_info.txt" />
+     <None Include="Assets\Resources\Staff\460\1.017.txt" />
+     <None Include="Assets\Resources\Staff\245\3.054.txt" />
+     <None Include="Assets\Resources\Staff\245\1.006.txt" />
+     <None Include="Assets\Resources\Staff\245\3.059a.txt" />
+     <None Include="Assets\Resources\Staff\245\3.055.txt" />
+     <None Include="Assets\Resources\Staff\460\3.055.txt" />
+     <None Include="Assets\Resources\Staff\460\2.059.txt" />
+     <None Include="Assets\Resources\Staff\460\2.055.txt" />
+     <None Include="Assets\Resources\Staff\245\2.039.txt" />
+     <None Include="Assets\Resources\Staff\350\4.009.txt" />
+     <None Include="Assets\Resources\Staff\245\1.028.txt" />
+     <None Include="Assets\Resources\Staff\245\3.042a.txt" />
+     <None Include="Assets\Resources\Staff\245\1.012.txt" />
+     <None Include="Assets\Resources\Staff\460\3.053.txt" />
+     <None Include="Assets\Resources\Staff\350\4.031.txt" />
+     <None Include="Assets\Resources\Staff\460\3.010b.txt" />
+     <None Include="Assets\Resources\Staff\245\3.041Aa.txt" />
+     <None Include="Assets\Resources\Staff\460\1.019.txt" />
+     <None Include="Assets\Resources\Staff\245\2.007.txt" />
+     <None Include="Assets\Resources\Staff\460\1.020.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
