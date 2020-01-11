@@ -1,0 +1,147 @@
+Building No: 460
+Building Name: Economics, Commerce and Law
+Number of Occupants: 128
+Dr Joseph Indaimo
+Lauren McNaught
+Ken Robson
+Liz Waldeck
+Ajantha Thinkaran
+Dr Arahita Riegler
+Linda Jurevic
+Dr Neil Mcleod
+Sarah Withnall Howe
+Dr Dennis Ndonga
+Haydn Rigby
+Erica Lewin
+Supratik Mukherji
+Nikola Horley
+Abigalye Carmody
+Dr Courtney Field
+Murray Brown
+Kirstein Fentiman
+Sonia Walker
+Jo Goodie
+Hon Michael Murray
+Mary Anne Kenny
+Lorraine Finlay
+Alice Hewitt
+Dr John Mugambwa
+Dr Steve Shaw
+Lisa Young
+Dr Augusto Zimmermann
+Guy Hall
+Robyn Honey
+Dr Kate Lewins
+Dr Jamie Zander
+Natalie Van Der Waarden
+Dr Stan Innes
+Dr Anthony Armson
+Dr Mi Kyung Lee
+Dr Amanda Meyer
+Dr Emad Ardakani
+Dr Christine Losco
+Dr Carol Choo
+Dr Peter Chapman
+Brenda Bently
+Dr Barret Losco
+Dr Raylene Lewis
+Dr Kenneth Young
+Jenny Sceats
+Dave Hogg
+Nathan Tozer
+Yukiko Stransky
+Michael Pugliese
+John Fahey
+Hilary Macdougal
+Sugeesh Ariyaratna
+John Pike
+Peter Hayes
+David Wilson
+Alasdair Macdonald
+Dr Frances Asha
+Marie Scott
+Katrina Pruntel
+Josh Hayes
+Dr Casta Tungaraza
+Martin Gwyn-Fawke
+Liz WIlkinson
+Nicole Turner
+Selwyn Poi
+Dr Lucy Jarzabkowski
+Alison Black
+Ann Butcher
+Allan Wong
+Coralie Manwaring
+Anne Allen
+Linda Morton
+Annette Connolly
+Jane Hutchison
+Professor Garry Rodan
+Jeffrey Wilson
+Dr Shahar Hameiri
+Carolyn Wills
+Andrew Syme
+Roy Hansen
+Erin Maddleford
+Janice Pell
+Kathryn Clune
+Glen Saunders
+Christopher Hall
+Henry Ng
+Sid Bartle
+Sean Drill
+Ki Ghin Wong
+Wolfgang Eisen
+ROjesh Susaimanickam
+Tylar Scott
+Anthony Middleton
+Hossain Samei
+Khalid Alrifai
+Mario Pinelli
+De Stanton
+Neil Huck
+Lynn Sutton
+Michael Deegan
+Alan Lyne
+Sarau Rajagopalan
+Alan Dent
+Dan Byles
+Karrynne Batten
+Sue Danaghey
+David Williams
+Albert Hua
+Jarren Beveridge
+Chris Hickman
+Cory Fiorentino
+Liah Cable
+Beena Kishore
+Brandon Duong
+Myles Kennington
+Ketki Bhagwat
+Zdenka Pupovac
+Justin Cawthorne
+Damien Patrick
+Christopher Harris
+Ralph Sunley
+Kevin eetaram
+Rehan Farid
+Lauren Hood
+Marcos Carot
+Geoff Holmes
+Number of Services: 10
+Male/Female Toilets
+Lift Access
+Kitchens
+Meeting/Seminar Rooms
+Computer Labs
+Post Graduate Area
+Lunch Box Cafe
+First Aid Boxes
+Security Call Points
+Catholic Chaplain
+Number of Lectures: 5
+ECL1
+ECL2
+ECL3
+ECL4
+HSFLT

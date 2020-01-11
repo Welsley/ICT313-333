@@ -1,0 +1,21 @@
+1;ICT169;Foundations of Data Communications;Monday;14:30;16:30;ECL4
+2;ICT207;Games Design & Programming;Monday;09:30;11:30;AMEN2.024
+3;ICT211;Web Computing;Monday;12:30;14:30;VBS3.023
+4;ICT265;Knowledge and Information Security;Monday;14:30;16:30;LBLT
+5;ICT347;Advanced Network Design;Monday;14:30;16:30;SS1.036
+6;ICT535;Advanced Business Data Communications;Monday;16:30;18:30;Law1.103
+7;ICT619;Intelligent Systems Applications;Monday;16:30;19:30;AMEN2.023
+8;ICT167;Principles of Computer Science;Tuesday;13:30;15:30;RLT
+9;ICT170;Foundations of Computer Systems;Tuesday;08:30;10:30;ECL2
+10;ICT245;Games Software Production;Tuesday;12:30;14:30;AMEN2.024
+11;ICT310;Op Syst and Syst Program;Tuesday;14:30;16:30;VBS3.023
+12;ICT312;Virtual Env for Games & Simulations;Tuesday;16:30;18:30;AMEN2.023
+13;ICT616;Data Resources Management;Tuesday;16:30;19:30;AMEN2.024
+14;ICT218;Databases;Wednesday;14:30;16:30;VBS3.024
+15;ICT219;Intelligent Systems;Wednesday;11:30;13:30;VBS3.023
+16;ICT313;Games Technology Project;Wednesday;08:30;10:30;ECL3
+17;ICT333;Info Tech Project;Wednesday;08:30;10:30;ECL3
+18;ICT158;Introduction to Information Systems;Thursday;09:30;11:30;BSLT
+19;ICT357;Information Security Management;Thursday;13:30;15:30;VBS3.023
+20;ICT622;Information Technology Strategy;Thursday;16:30;19:30;BSLT
+21;ICT264;Wireless Networks;Friday;13:30;15:30;ECL3

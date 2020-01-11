@@ -1,0 +1,8 @@
+Building No: 
+Building Name: 
+Number of Occupants: 
+list occupant names 1 per line
+Number of Services:
+list services 1 per line
+Number of Lectures:
+list of lecture rooms

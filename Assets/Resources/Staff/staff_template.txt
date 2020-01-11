@@ -1,0 +1,10 @@
+Staff Name: 
+Building No: 
+Office No: 
+Number of Phones: 
+list phone numbers 1 per line
+Email: 
+Photo: [insert filename or insert none]
+Position: 
+Number of Organisations: 
+list organisations 1 per line

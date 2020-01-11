@@ -1,0 +1,112 @@
+Building No: 245
+Building Name: Science & Computing
+Number of Occupants: 94
+Dr Christian Payne
+Dr Fay Sudweeks
+Dr Val Hobbs
+Associate Professor Tanya McGill
+Florence Mwagwabi
+Dr Nik Thompson
+Ricard Boddington
+Dr Mohd Fairuz Shiratuddin
+Dr Graham Mann
+Associate Professor Lance Chun Che Fung
+Mark Abernethy
+Dr Pyara Dhillon
+Peter Cole
+Dr Mike Dixon
+Terry Koziniec
+Dr David Murray
+Danny Toohey
+Shri Rai
+Dr Kevin Wong
+Dr Hong Xie
+Dr Kevin Lee
+Dr Jocelyn Armarego
+Lauren Nieuwpoort
+Mandy Middle
+Emer McKernan
+Diana Hudson
+Rebecca Treloar-Cook
+Alexander Gofton
+Dr Philip O'Brien
+Dr Martine Keenan
+June Burnett
+Emma Tristham
+Rosie Price
+Miriam Everall
+Afshin Sadrieh
+Dr Mohammednoor Altarawneh
+Professor Bogdan Dlugogorski
+Dr Ralf Cord-Ruwisch
+Professor Michael Nicol
+Dr Kirsty Bayliss
+Kenneth Seymour
+Dr Aleks Nikoloski
+Associate Professor Gamini Senanayake
+Rachel Holmes
+Dr Vee Ming Ng
+Dr Duncan Farrow
+Dr Helen Middleton
+Ana Rita Sequeira
+Professor Graeme Hocking
+Dr Charlotte Oskam
+Associate Professor Kenneth Harrison
+Dr Andrea Paparini
+Ha Nguyen
+Professor Pritam Singh
+Dr Linda Li
+Niveen Assaf
+Anam Saeed
+Kevin Ong
+Dr Lucy Skillman
+Professor Walter Bloom
+Dr Martin Anda
+James Meneghello
+Dr Doug Fletcher
+Dr Ramya Ramkumar
+Dr Juita Juita
+Dr Wipa Charles
+Professor Goen Ho
+Dr Devindri Perera
+Professor Ian James
+Dr Mark Lukas
+Dr Brenton Clark
+Dr Amy Glen
+Dr Ryan Admiraal
+Kris Parker
+Sandra Blair
+Khin-Than Aye
+Bin Hu
+Dr Suchin Zhang
+James Kyle
+Dr Heather Hobert
+Professor Peter May
+Darren Rowland
+Dr Dan Churach
+Dr Lan-Chi Koenigsberger
+Dr Glen O'Malley
+Dr Justin McGinnity
+Dr Manickam Minakshi Sundaram
+Candice Carey
+Dr Lubomir Hnedkovsky
+Helen Kemp
+Dr Chandrika Akilan
+Dr Venny Tjandrawan
+Graeme Thompson
+Dr Jim Avraamides
+Number of Services: 12
+Computing Labs x5
+Meeting Rooms x3
+Research Labs x18
+Male Toilets lvl 2
+Female Toilets lvl 2
+Male Toilets lvl 3
+Female Toilets lvl 3
+Male Emergency Shower 3.048
+Female Emergency Shower 3.046
+First Aid Room 3.052
+Chemistry & Mineral Science Assignment Submission
+Engineering & Information Technology Office Window
+Number of Lectures: 1
+RLT

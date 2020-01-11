@@ -1,0 +1,62 @@
+Building No: 350
+Building Name: Library
+Number of Occupants: 32
+Sarah Blacklock
+Dr Stephen Johnson
+Professor Rick Cummings
+Helen Cole
+Dr Angela Jones
+Karyn Barenberg
+Dr Rebecca Bennett
+Pamela Martin-Lynch
+Jodie-Lee McLeod
+Joanne Lisciandro
+Ghylene Palmer
+Sonia Boccardo
+Kate Makowiecka
+Dr Madeleine Laming
+Professor Geoffrey Bolton
+Terri McCann
+Dr Craig Whitsed
+Vani Lambourne
+Gael Gibbs
+Jeffory Asselin
+Dr Karen Strehlow
+Pamela Struthers
+Rhondda Tilbrook
+Mike Bryant
+Linda Butcher
+Silvia Dewiyanti
+Denyse MacNish
+Dr Peter Geerlings
+Stephen Tomich
+Richard Lefroy
+Dr Julia Hobson
+Mark Stewart
+Number of Services: 25
+Computing Labs x5
+Meeting Rooms x2
+Private Study Rooms x20
+Silent Computing Lab lvl 1 South
+Library & Information Services lvl 2 South
+After Hours Entry lvl 2 Learning Link
+DVD Viewing Rooms x3
+Photocopying & Printing Services
+IT Service Desk lvl 3 North
+Reserve Section lvl 3 North
+Library Help Desk lvl 3 North
+First Aid Box LibN 3.002
+First Aid Box LibN 4.018
+First Aid Box LibLK 2.012
+Kadjininy Cafe
+Male Toilets lvl 1 South
+Female Toilets lvl 1 South
+Male Toilets lvl 2 North & South
+Female Toilets lvl 2 North & South
+Male Toilets lvl 3 North & South
+Female Toilets lvl 3 North & South
+Male Toilets lvl 4 North & South
+Female Toilets lvl 4 North & South
+Murdoch Uni Art Gallery
+Office of IT Services / Customer Services lvl 4
+Number of Lectures: 0
